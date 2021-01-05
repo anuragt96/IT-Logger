@@ -1,0 +1,42 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "Fixed 002 Hard drive",
+      "attention": false,
+      "tech": "ANURAG TIWARI",
+      "date": "2021-01-04T23:11:26.528Z"
+    },
+    {
+      "id": 2,
+      "message": "fixed network card on server 007",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2021-01-04T21:58:24.436Z"
+    },
+    {
+      "message": "1122 wireless mouse not working at lab 005",
+      "attention": true,
+      "tech": "Sam Smith",
+      "date": "2021-01-04T20:57:33.184Z",
+      "id": 3
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    }
+  ]
+}
